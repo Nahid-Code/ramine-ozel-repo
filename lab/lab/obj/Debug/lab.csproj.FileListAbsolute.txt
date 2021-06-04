@@ -1,0 +1,7 @@
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\bin\Debug\lab.exe.config
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\bin\Debug\lab.exe
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\bin\Debug\lab.pdb
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\obj\Debug\lab.exe
+C:\Users\ROG STRIX\Desktop\lab\lab\lab\obj\Debug\lab.pdb
